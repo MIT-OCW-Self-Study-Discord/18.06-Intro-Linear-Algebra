@@ -1,5 +1,4 @@
-# 18.06-Intro-Linear-Algebra
-18.06—Introduction to Linear Algebra
+# 18.06—Introduction to Linear Algebra
 
 [MIT OCW Site](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
